@@ -60,7 +60,7 @@ The NTT-256 accelerator was implemented using **Cadence Genus and Cadence Innovu
 
 The final physical implementation contains approximately **2–3K standard cells**, in addition to three SRAM macros, and targets an operating frequency of **100 MHz**.
 
-![NTT-256 Physical Design](images/Physical_design/Screenshot 2026-07-04 202606.png)
+![NTT-256 Physical Design](images/Physical_design/phy_design.png)
 
 ---
 
